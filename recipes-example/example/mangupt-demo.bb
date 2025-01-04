@@ -15,7 +15,7 @@ addtask display_banner before do_build
 
 SRCREV     = "3b0b4e875c250dd0a36fdd3a3d124d907e9cc567"
 SRC_URI[sha256sum] = "23c17ea5d0c59d6b9d304408259e83cec442c41d778b7e2ffb9dd1724479d4e2"
-SRC_URI = "git://github.com/150manish/Yocto_check.git;protocol=https;branch=main"
+SRC_URI = "git://github.com/150manish/Yocto_check.git;protocol=https;branch=demo"
 
 S = "${WORKDIR}/git"
 

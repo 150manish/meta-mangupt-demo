@@ -1,3 +1,13 @@
+From 4261e6b76cee3563078a011086dd9df82fb476c5 Mon Sep 17 00:00:00 2001
+From: mangupt <mangupt@qti.qualcomm.com>
+Date: Sat, 4 Jan 2025 19:11:42 +0530
+Subject: [PATCH] print-2
+
+Change-Id: Ibf97d7344701f2878aac74a6dbe6a820a307ea72
+---
+ code/hello.c | 1 +
+ 1 file changed, 1 insertion(+)
+
 diff --git a/code/hello.c b/code/hello.c
 index 2d2729c..905112e 100644
 --- a/code/hello.c
@@ -10,3 +20,6 @@ index 2d2729c..905112e 100644
  	return 0;
  }
  
+-- 
+2.25.1
+

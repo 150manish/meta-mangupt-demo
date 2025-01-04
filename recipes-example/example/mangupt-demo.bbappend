@@ -1,3 +1,3 @@
-SRC_URI += "file://0001_Add_print.patch \
-            file://0002_Add_print_2.patch \
+SRC_URI += "file://0001-print-1.patch \
+            file://0001-print-2.patch \
            "
