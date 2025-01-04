@@ -1,0 +1,12 @@
+diff --git a/code/hello.c b/code/hello.c
+index 406f56b..2d2729c 100644
+--- a/code/hello.c
++++ b/code/hello.c
+@@ -8,6 +8,7 @@ This is Hello World program for Yocto check.
+ int main(int argc, char **argv) {
+ 
+ 	printf("\n* Hello World %d *\n", SAMPLE_MACRO-256);
++	printf("\n* Hello World 1 *\n");
+ 	return 0;
+ }
+ 
