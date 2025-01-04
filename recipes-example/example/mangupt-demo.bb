@@ -6,7 +6,7 @@ LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/MIT;md5=0835ade698e0bcf8506ecda
 python do_display_banner() {
     bb.plain("***********************************************");
     bb.plain("*                                             *");
-    bb.plain("*  Example recipe created by bitbake-layers   *");
+    bb.plain("*  Example recipe created by bitbake-layers.   *");
     bb.plain("*                                             *");
     bb.plain("***********************************************");
 }
